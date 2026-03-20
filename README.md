@@ -11,7 +11,7 @@
 
 I’m a Full Stack Developer with 4+ years of experience, but more than that, I’m someone who likes to **own the whole system**.
 
-From designing backend architecture and microservices, to building clean and responsive UIs, to deploying infrastructure on AWS — I enjoy connecting all the pieces into something that actually works at scale.
+From designing backend architecture and microservices, to building clean and responsive UIs, to deploying infrastructure on AWS, I enjoy connecting all the pieces into something that actually works at scale.
 
 I care about:
 - 🧠 Thinking in systems, not just code  
